@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css?family=Donegal+One");
+body {
+  font-family: 'Donegal One', serif; }
+
+.container {
+  padding: 15px 0px;
+  width: 100%; }
+
+.jumbotron {
+  background: linear-gradient(to right, #FFF, #a0a0a0); }
+
+h1 {
+  text-align: left; }
+
+h2 {
+  text-align: center; }
+
+p {
+  text-align: center;
+  font-size: 20px; }
